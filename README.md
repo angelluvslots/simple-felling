@@ -6,8 +6,6 @@ simple felling is a vanilla-plus style datapack that adds tree felling. when you
 
 - support for hyphae blocks
 - support for mushrooms
-- improved reliability
-- improved game feel
 
 ## ✨ installation
 
